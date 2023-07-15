@@ -1,5 +1,6 @@
 
-### Step by step guide for setting up your GCP account ###
+## Step-by-step guide for setting up your GCP account ##
+#### Go through the documentation to set up your GCP account hasle free ####
 
 * 
     Create a google account. Now, it is recommended to not use your personal account as you might want to keep your account mail box clutter free from all the cloud alerts that you will be recieving in the future.
