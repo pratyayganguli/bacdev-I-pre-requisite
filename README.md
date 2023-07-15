@@ -5,11 +5,11 @@
 * 
     Create a google account. Now, it is recommended to not use your personal account as you might want to keep your account mail box clutter free from all the cloud alerts that you will be recieving in the future.
 
-    [Click here](https://www.google.com/account/about) and you will be redirected to the google account page. After, the page is loaded click on create account.
+    [Click here](https://www.google.com/account/about) and you will be redirected to the google account page. After, the page is loaded click on `create an account`.
 
     ![Google account page](assets/images/1.png)
 
-    Fill in your details.
+    Fill in your personal details.
 
     ![Fill your personal details](assets/images/2.png)
 
@@ -38,12 +38,12 @@
 
     ![GCP Home page](assets/images/8.png)
 
-    Once you start your free trial, gcp gives you $300 free credits valid for 3 months. So, click on start a free trial.
+    Once you start your free trial, GCP gives you $300 free credits valid for 3 months. So, click on start a free trial.
 
 *
     **Setting your billing accout** :
 
-    Provide all the necessary account information anc click on continue.
+    Provide all the necessary account information and click on continue.
 
     ![GCP Account information page](assets/images/9.png)
 
@@ -52,13 +52,13 @@
     _Note :_  
     * **It is always a good thing to check your billing to keep a track of the services you are using on GCP.**
 
-    * Only international cards like Visa/Mastercard/American Express are supported till date.
+    * **Only international cards like Visa / Mastercard / American Express are supported till date.**
 
     ![Adding your card](assets/images/10.png)
 
     ![Adding your card](assets/images/11.png)
 
-    After, you add your card you'll recieve your free credits in your account which you'll need for running different services.
+    After, you add your card you'll recieve your free credits in your account which you'll need for running different cloud services.
 
 
 _Post completion of all these steps sit tight and relax. Your GCP account is ready for use_ :+1:
