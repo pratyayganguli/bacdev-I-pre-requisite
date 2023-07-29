@@ -6,13 +6,13 @@
 
   Follow the guide below to create one.
 
-## Intellij IDEA Download ##
+## Intellij IDEA ##
 
 * Download the community version of IDEA. [Click here](https://www.jetbrains.com/idea/download/?section=windows).
 * **Leave the installation part.** Just download the setup file.
 
 
-## Docker Desktop Download 
+## Docker Desktop ## 
 * [Click here](https://www.docker.com/products/docker-desktop/) to download the **latest version** of docker desktop.
 * **Leave the installation part.** Just download Docker Desktop.
 
