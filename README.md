@@ -1,3 +1,18 @@
+## Pre-requisites ##
+
+* Basic knowledge of Java is preferable.
+* Must have a personal windows machine.
+* Must have a Google Cloud Platform account. Follow the guide below.
+
+## Intellij IDEA Download ##
+
+* Download the community version of IDEA. [Click here](https://www.jetbrains.com/idea/download/?section=windows).
+* **Leave the installation part.** Just download the setup file.
+
+
+## Docker Desktop Download 
+* [Click here](https://www.docker.com/products/docker-desktop/) to download the **latest version** of docker desktop.
+* **Leave the installation part.** Just download Docker Desktop.
 
 ## Step-by-step guide for setting up your GCP account ##
 #### Go through the documentation to set up your GCP account hasle free ####
