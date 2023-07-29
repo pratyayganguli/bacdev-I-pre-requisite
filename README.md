@@ -2,7 +2,9 @@
 
 * Basic knowledge of Java is preferable.
 * Must have a personal windows machine.
-* Must have a Google Cloud Platform account. Follow the guide below.
+* Must have a Google Cloud Platform account.
+
+  Follow the guide below to create one.
 
 ## Intellij IDEA Download ##
 
